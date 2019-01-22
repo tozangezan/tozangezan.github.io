@@ -71,5 +71,5 @@
 - Calculating modulo inverse: [Link](https://docs.google.com/presentation/d/1sNPLkFC8MaZB4Aqi9AJZChta8cLbFYtGew4wND0JrNc/edit?usp=sharing)
 - Number of Points on Convex Hull: [Link](https://docs.google.com/presentation/d/1DK6Co1niSe6bspldzoUUuekEkqtc6Kp8oadZbVsiIpE/edit?usp=sharing)
 - Parallel Binary Search: [Link](https://docs.google.com/presentation/d/1gLBAsFYu9FEMJZ0skc4dvweF9-YUDyrotR5LnWyKStk/edit?usp=sharing)
-- Introduction to Computational Geometry <i>JOI 2017 spring training camp</i> (in Japanese): [Link](https://www.ioi-jp.org/camp/2017/2017-sp_camp-hide.pdf)
-- DP Optimization <i>IOI 2015 Japanese team training camp</i> (in Japanese): [Link](https://docs.google.com/presentation/d/1GzQkv73utz5LIJ282VNVePWn9ttvUcKD1J0SDqb5RXI/edit?usp=sharing)
+- Introduction to Computational Geometry, <i>JOI 2017 spring training camp</i> (in Japanese): [Link](https://www.ioi-jp.org/camp/2017/2017-sp_camp-hide.pdf)
+- DP Optimization, <i>IOI 2015 Japanese team training camp</i> (in Japanese): [Link](https://docs.google.com/presentation/d/1GzQkv73utz5LIJ282VNVePWn9ttvUcKD1J0SDqb5RXI/edit?usp=sharing)
