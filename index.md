@@ -10,9 +10,9 @@
 
 ## Programming contest basic data
 
-- AtCoder ID: tozangezan [Link](https://atcoder.jp/users/tozangezan)
-- Codeforces ID: TozanSoutherpacks [Link](https://codeforces.com/profile/TozanSoutherpacks)
-- Topcoder ID: tozangezan [Link](https://www.topcoder.com/members/tozangezan)
+- AtCoder ID: <font color="Red">tozangezan</font> [Link](https://atcoder.jp/users/tozangezan)
+- Codeforces ID: <font color="Red">TozanSoutherpacks</font> [Link](https://codeforces.com/profile/TozanSoutherpacks)
+- Topcoder ID: <font color="Red">tozangezan</font> [Link](https://www.topcoder.com/members/tozangezan)
 - PKU Judge Online ID: tozangezan
 - Aizu Online Judge ID: tozangezan
 
