@@ -61,4 +61,6 @@
 
 ## URL
 
-- Youtube video channel: [Link](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw)
+- Blog (in Japanese): [Link](http://tozangezan.hatenablog.com/)
+- Youtube video channel (in English): [Link](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw)
+
