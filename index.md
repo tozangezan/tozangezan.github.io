@@ -4,6 +4,7 @@
 
 ### Personal
 
+- Born, grown up, and currently living in Saitama, Japan
 - Language: Japanese (Native), English (Fluent), Korean (Intermediate), Tatar (Lower-intermediate), French (Beginner)
 
 ### Academics
