@@ -51,5 +51,14 @@
 - 2nd place at PC Concours high school programming contest 2010
 - Selection camp finalist at Japanese Olympiad in Informatics 2010 [Link](https://www.ioi-jp.org/joi/2009/2010-medalists.html)
 
+## Contributions
+
+- Host Scientific Committee member at International Olympiad in Informatics 2018
+- International Scientific Committee member at International Olympiad in Informatics 2017 [Link](http://stats.ioinformatics.org/administration/2017)
+- Student coach at Japanese Olympiad in Informatics 2013-
+- Problem writer / tester at AtCoder
+- Problem writer at Topcoder [Link](https://www.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=tozangezan)
+
 ## URL
 
+- Youtube video channel: [Link](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw)
