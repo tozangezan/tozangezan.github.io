@@ -6,12 +6,13 @@
 - Graduate exchange student at University of British Columbia, 2018
 - BSc in ecology, The University of Tokyo, 2013-2018
 - Kaisei Senior High School, 2010-2013
+- Kaisei Junior High School, 2007-2010
 
 ## Programming contest basic data
 
-- AtCoder ID: tozangezan
-- Codeforces ID: TozanSoutherpacks
-- Topcoder ID: tozangezan
+- AtCoder ID: tozangezan [Link](https://atcoder.jp/users/tozangezan)
+- Codeforces ID: TozanSoutherpacks [Link](https://codeforces.com/profile/TozanSoutherpacks)
+- Topcoder ID: tozangezan [Link](https://www.topcoder.com/members/tozangezan)
 - PKU Judge Online ID: tozangezan
 - Aizu Online Judge ID: tozangezan
 
@@ -27,4 +28,21 @@
 - 39th place (silver medal) at International Olympiad in Informatics 2012 [Link](http://stats.ioinformatics.org/results/2012)
 - 39th place (bronze medal) at Asia-Pacific Informatics Olympiad 2012 [Link](http://apio-olympiad.org/2012/results.html)
 - 24th place (bronze medal) at Asia-Pacific Informatics Olympiad 2011 [Link](http://apio-olympiad.org/2011/results.html)
+
+### Other onsite contests
+
+- 3rd award (8th place) at Samsung Collegiate Programming Contest 2016
+- 2nd place at ACM-ICPC 2015 Tsukuba Regional Contest
+- 3rd place at ACM-ICPC 2013 Chia-Yi Regional Contest
+- 2nd place at PC Concours high school programming contest 2012
+- 2nd place at Supercomputing Programming Contest 2012
+- Silver medal (4th place) at Japanese Olympiad in Informatics 2012 [Link](https://www.ioi-jp.org/joi/2011/2012-medalists.html)
+- 1st place at PC Concours high school programming contest 2011
+- 1st place at Supercomputing Programming Contest 2011
+- Bronze medal (finalist) at Japan Biology Olympiad 2011 [Link](http://www.jbo-info.jp/jbo/jbo2011/JBO2011-02_Medal.html)
+- Selection camp finalist at Japanese Olympiad in Informatics 2011 [Link](https://www.ioi-jp.org/joi/2010/2011-medalists.html)
+- 2nd place at PC Concours high school programming contest 2010
+- Selection camp finalist at Japanese Olympiad in Informatics 2010 [Link](https://www.ioi-jp.org/joi/2009/2010-medalists.html)
+
+## URL
 
