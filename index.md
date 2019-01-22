@@ -2,6 +2,12 @@
 
 ## Basic data
 
+### Personal
+
+- Language: Japanese (Native), English (Fluent), Korean (Intermediate), Tatar (Lower-intermediate), French (Beginner)
+
+### Academics
+
 - Pursuing MSc in theoretical ecology, The University of Tokyo, 2018-
 - Graduate exchange student at University of British Columbia, 2018
 - BSc in ecology, The University of Tokyo, 2013-2018
