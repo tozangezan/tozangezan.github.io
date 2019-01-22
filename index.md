@@ -63,6 +63,11 @@
 - Problem writer / tester at AtCoder
 - Problem writer at Topcoder [Link](https://www.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=tozangezan)
 
+## Career
+
+- Software Engineering Internship at Google Tokyo, 2017
+- Software Engineering Internship at Indeed Tokyo, 2015
+
 ## URL
 
 - Blog (in Japanese): [Link](http://tozangezan.hatenablog.com/)
