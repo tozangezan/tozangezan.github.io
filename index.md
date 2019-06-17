@@ -5,8 +5,8 @@
 ### Personal
 
 - Born, grown up, and currently living in Saitama, Japan
-- Language: Japanese (Native), English (Fluent), Korean (Intermediate), Tatar (Lower-intermediate), French (Beginner)
-- Interests: mathematical / computational biology, combinatorics, graph theory, exponential algorithms
+- Language: Japanese (Native), English (Fluent, TOEFL iBT: 107), Korean (Intermediate), Tatar (Lower-intermediate), French (Beginner). (Actually, I like to learn languages so I sometimes feel like learning others)
+- Interests: mathematical / computational biology, combinatorics, graph theory, exponential algorithms, computational geometry, NLP.
 - E-Mail address:
 
 <img src="email.png">
@@ -67,6 +67,10 @@
 
 - Software Engineering Internship at Google Tokyo, 2017
 - Software Engineering Internship at Indeed Tokyo, 2015
+
+## Scientific Articles
+
+- Incorrect implementations of the Floyd--Warshall algorithm give correct solutions after three repeats: [Link](https://arxiv.org/abs/1904.01210)
 
 ## URL
 
