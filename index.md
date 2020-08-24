@@ -7,9 +7,7 @@
 - Born, grown up, and currently living in Saitama, Japan
 - Language: Japanese (Native), English (Fluent, TOEFL iBT: 107), Korean (Intermediate), French (Intermediate), Tatar (Lower-intermediate), (Actually, I like to learn languages so I sometimes feel like learning others)
 - Interests: mathematical / computational biology, combinatorics, graph theory, exponential algorithms, computational geometry, NLP.
-- E-Mail address:
 
-<img src="email.png">
 
 ### Academics
 
